@@ -7,7 +7,7 @@ frontend-sandbox - это шаблон для вашей новой коллек
 
 ## Quick Start
 
-- `git clone https://github.com/maestrow/frontend-sandbox --depth=1`.
+- `git clone https://github.com/maestrow/frontend-sandbox . --depth=1`.
 - В `bower.json`, в раздел `dependencies` добавьте зависимости на клиентские пакеты, которые планируете использовать. Например, `"jquery": ""`.
 - `$ npm install` (1).
 - `$ npm start`
