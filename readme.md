@@ -14,7 +14,7 @@ frontend-sandbox - это шаблон для вашей новой коллек
 - Укажите имя и описание вашего пакета (а также другую информацию) в `package.json`.
 
 Модули примеров находятся в `frontend/modules`.
-За дополнительной информацией см. [https://github.com/maestrow/frontend-sandbox-core]().
+За дополнительной информацией см. https://github.com/maestrow/frontend-sandbox-core.
 
 
 ## Демонстрационные модули
