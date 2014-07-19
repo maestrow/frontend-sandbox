@@ -1,0 +1,17 @@
+{
+  "version": "0.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --harmony server.js",
+	  "postinstall": "./node_modules/.bin/bower install"
+  },
+  "author": "",
+  "license": "ISC",
+	"dependencies":  {
+		"frontend-sandbox-core":  "git+https://github.com/maestrow/frontend-sandbox-core"
+	},
+	"devDependencies": {
+		"bower": ""
+	}
+}

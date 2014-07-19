@@ -1,2 +1,2 @@
-var server = require('frontend-sandbox');
+var server = require('frontend-sandbox-core');
 server.start();

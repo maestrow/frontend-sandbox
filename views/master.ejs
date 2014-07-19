@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title><%= title %></title>
+    <meta charset="utf-8">
+    <script src="/frontend/bower_components/jquery/dist/jquery.js"></script>
+    <% scripts.forEach(function (script) { %>
+    <script src="<%= script %>"></script>
+    <% }) %>
+</head>
+<body>
+
+<%- body %>
+
+</body>
+</html>
